@@ -2,4 +2,3 @@
 node_modules/
 myblog/.vuepress/.cache/
 myblog/.vuepress/.temp/
-myblog/.vuepress/dist/
